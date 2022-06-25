@@ -1,5 +1,5 @@
 /**
- * Remove an element from the array.
+ * Search and insert the target in the array.
  *
  * @param {number[]} nums
  * @param {number} target
